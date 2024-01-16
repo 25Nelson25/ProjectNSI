@@ -153,7 +153,7 @@ Concernant la sécurité des données, la plus part **des données "fragiles" et
 
 1. Nous avons **KEISER Kenan**, notre _Chef de Projet_. Il s'occupe de donné les directives, distribué les tâches entre les membres et de mettre sa main à la cuisine dans le projet.
 2. Nous avons **MOULIAS Eyden**, notre _Secrétaire en Chef_. Il s'occupe de prendre en note le Carnet de bord du projet, les fichiers comme le Cahier des charges et la soutenance orale et lui aussi met sa main à la cuisine dans le projet.
-3. Nous avons **MOUTARDE Kyllian**, notre _Documentaliste-. Il s'occupe de faire des recherches internet et de prendre en note la documentation du Projet, notemment comment est structuré le projet, comment fonctionne les fonctions ect... Lui aussi met la main à la cuisine dans le projet.
+3. Nous avons **MOUTARDE Kyllian**, notre _Documentaliste_. Il s'occupe de faire des recherches internet et de prendre en note la documentation du Projet, notemment comment est structuré le projet, comment fonctionne les fonctions ect... Lui aussi met la main à la cuisine dans le projet.
 
 ### Calendrier
 
