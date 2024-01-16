@@ -111,10 +111,6 @@
     "extraResources": [
       "./assets/**"
     ],
-    "extraFiles": [
-      "psdk-binaries",
-      "new-project.zip"
-    ],
     "win": {
       "target": [
         "nsis"
