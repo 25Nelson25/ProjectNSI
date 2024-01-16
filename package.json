@@ -1,0 +1,133 @@
+{
+  "name": "copi-tache-pronot",
+  "productName": "CopiTachePronot",
+  "description": "CopieTachePronot est une application bureautique autonomme qui permet une grande aide dans la gestion administrative scolaire, la possibilité d'intéragir avec une petite IA, Bixbie, de trouver de nombreuses ressources pédagogique et des informations pratiques, alléger le travail administratif, aussi bien pour l'administration que les professeurs, une possibilitée pour les élèves de suggérer des améliorations dans la vie quotidienne de leur établissement scolaire, et bien d'autres encore !",
+  "version": "1.0.0",
+  "main": "./.webpack/main",
+  "license": "SEE LICENSE IN LICENCE.md",
+  "author": {
+    "name": "25Nelson25",
+    "email": "opti.keyninelson.kix25@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/25Nelson25/ProjectNSI.git"
+  },
+  "engines": {
+    "node": ">=20.9.0",
+    "npm": ">=9.5.0"
+  },
+  "devEngines": {
+    "node": ">=20.9.0",
+    "npm": ">=9.5.0"
+  },
+  "scripts": {
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "make": "electron-forge make",
+    "publish": "electron-forge publish",
+    "lint": "eslint --ext .ts,.tsx ."
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^6.2.1",
+    "@electron-forge/maker-deb": "^6.2.1",
+    "@electron-forge/maker-rpm": "^6.2.1",
+    "@electron-forge/maker-squirrel": "^6.2.1",
+    "@electron-forge/maker-zip": "^6.2.1",
+    "@electron-forge/plugin-webpack": "^6.2.1",
+    "@electron/rebuild": "^3.4.1",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.10",
+    "@svgr/webpack": "^7.0.0",
+    "@toinane/electron-forge-maker-nsis": "^1.0.0",
+    "@types/lodash.groupby": "^4.6.7",
+    "@types/lodash.uniq": "^4.5.7",
+    "@types/react": "^18.0.29",
+    "@types/react-beautiful-dnd": "^13.1.4",
+    "@types/react-dom": "^18.0.11",
+    "@types/react-notifications-component": "^3.1.1",
+    "@types/react-test-renderer": "^18.0.0",
+    "@types/react-virtualized": "^9.21.21",
+    "@types/styled-components": "^5.1.26",
+    "@types/yauzl": "^2.10.0",
+    "@typescript-eslint/eslint-plugin": "^5.56.0",
+    "@typescript-eslint/parser": "^5.56.0",
+    "@vercel/webpack-asset-relocator-loader": "1.7.3",
+    "copy-webpack-plugin": "^11.0.0",
+    "css-loader": "^6.7.3",
+    "electron": "^28.0.0",
+    "eslint": "^8.36.0",
+    "eslint-import-resolver-typescript": "^3.5.3",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "fork-ts-checker-webpack-plugin": "^8.0.0",
+    "node-loader": "^2.0.0",
+    "react-refresh": "^0.14.0",
+    "style-loader": "^3.3.2",
+    "ts-loader": "^9.4.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4",
+    "url-loader": "^4.1.1"
+  },
+  "dependencies": {
+    "@pkmn/sim": "^0.8.2",
+    "csv-parse": "^5.3.6",
+    "csv-stringify": "^6.3.0",
+    "electron-is-dev": "^2.0.0",
+    "electron-log": "^5.0.0-beta.24",
+    "electron-updater": "^5.3.0",
+    "extract-zip": "^2.0.1",
+    "i18next": "^22.4.13",
+    "i18next-browser-languagedetector": "^7.0.1",
+    "i18next-http-backend": "^2.2.0",
+    "react": "^18.2.0",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-dom": "^18.2.0",
+    "react-flow-renderer": "^10.3.17",
+    "react-i18next": "^11.18.6",
+    "react-is": "^18.2.0",
+    "react-notifications-component": "^4.0.1",
+    "react-router-dom": "^6.11.1",
+    "react-select": "^5.7.3",
+    "react-textarea-autosize": "^8.4.1",
+    "react-tooltip": "^4.2.21",
+    "react-tracked": "^1.7.11",
+    "react-virtualized": "^9.22.5",
+    "styled-components": "^5.3.6",
+    "ts-marshal": "^0.0.11",
+    "ts-tiled-converter": "^0.0.9",
+    "zod": "^3.22.4"
+  },
+  "build": {
+    "appId": "com.copitachepronot.nelson",
+    "fileAssociations": {
+      "ext": "copit",
+      "name": "Copitache",
+      "description": "Fichier de CopiTachePronot"
+    },
+    "directories": {
+      "output": "out/make"
+    },
+    "extraResources": [
+      "./assets/**"
+    ],
+    "extraFiles": [
+      "psdk-binaries",
+      "new-project.zip"
+    ],
+    "win": {
+      "target": [
+        "nsis"
+      ],
+      "icon": "assets/icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "shortcutName": "CopiTachePronot",
+      "artifactName": "CopiTachePronot-Setup-${version}.${ext}"
+    }
+  },
+  "volta": {
+    "node": "20.9.0"
+  }
+}
