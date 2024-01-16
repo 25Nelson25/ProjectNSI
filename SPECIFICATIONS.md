@@ -94,6 +94,7 @@ On utilise de multiple langage de programmation et technologie :
 - **SQL**, pour la gestion de base de données.
 - **CSV**, pour les données internes à l'application.
 - **Python**, pour la programmation de fonction utilitaire, pour les petits jeux de l'IA. _(Backend)_
+- **JSON**, pour certaine configuration notemment les configurations propres à VSC.
 - **Visual Studio Code**, pour développé l'application sur un éditeur de texte moderne.
 - **Figma**, pour développé le design et l'apparence de l'application.
 
