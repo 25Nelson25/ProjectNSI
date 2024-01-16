@@ -192,7 +192,6 @@ Concernant la sécurité des données, la plus part **des données "fragiles" et
     - Fin du Projet
 
 ## Approbation
-[Placez ici un espace pour les signatures et les dates d'approbation des parties concernées.]
 
 ### Commentaire du Professeur et Approbation
 
