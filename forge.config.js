@@ -10,8 +10,8 @@ const { rendererConfig } = require('./config/webpack.renderer.config')
 const config = {
     packagerConfig: {
         icon: './assets/icon',
-        executableName: process.platform !== 'linux' ? undefined : 'copi-tache-pronot',
-        name: process.platform === 'darwin' ? "CopiTachePronot" : undefined
+        executableName: process.platform !== 'linux' ? undefined : 'copi-tage-pronot',
+        name: process.platform === 'darwin' ? "CopiTagePronot" : undefined
     },
     rebuildConfig: {},
     makers: [
