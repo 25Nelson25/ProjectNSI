@@ -1,6 +1,6 @@
 # CopiTachePronot
 
-CopieTachePronot est une application bureautique autonomme qui permet :
+CopieTagePronot est une application bureautique autonomme qui permet :
 
 - Une grande aide dans la gestion administrative scolaire,
 - La possibilité d'intéragir avec une petite IA, Bixbie,
