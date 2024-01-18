@@ -1,6 +1,6 @@
-# Licence d'utilisation de CopiTachePronot
+# Licence d'utilisation de CopieTagePronot
 
-Lorsque Vous exercez les Droits accordés par la licence (définis ci-dessous), Vous acceptez d'être lié par les termes et conditions de la présente **Licence d'utilisation de CopiTachePronot** (la « Licence publique »). Dans la mesure où la présente Licence peut être interprétée comme un contrat, Vous bénéficiez des Droits accordés par la licence en contrepartie de Votre acceptation des présents termes et conditions, et le Donneur de licence Vous accorde ces droits en contrepartie des avantages que lui procure le fait de mettre à disposition l’Œuvre, CopiTachePronot, sous licence en vertu des présents termes et conditions.
+Lorsque Vous exercez les Droits accordés par la licence (définis ci-dessous), Vous acceptez d'être lié par les termes et conditions de la présente **Licence d'utilisation de CopieTagePronot** (la « Licence publique »). Dans la mesure où la présente Licence peut être interprétée comme un contrat, Vous bénéficiez des Droits accordés par la licence en contrepartie de Votre acceptation des présents termes et conditions, et le Donneur de licence Vous accorde ces droits en contrepartie des avantages que lui procure le fait de mettre à disposition l’Œuvre, CopieTagePronot, sous licence en vertu des présents termes et conditions.
 
 # Article 1 - Définitions
 
@@ -80,7 +80,7 @@ Lorsque les Droits accordés par la licence incluent le Droit sui generis des pr
 
 Afin de lever toute ambiguïté, le présent Article 4 complète mais ne remplace pas Vos obligations découlant des termes de la présente Licence lorsque les Droits accordés par la licence incluent d’autres Droit d’auteur et droits connexes.
 
-En tout état de cause, toute extraction, réutilisation, reproduction, partage de tout ou partie de la base de données ne peut se faire que sous réserve des droits d'auteur et droits assimilés de tiers. Ces derniers comprennent tout matériel qui ne seraient pas la propriété directe de CopiTachePronot.
+En tout état de cause, toute extraction, réutilisation, reproduction, partage de tout ou partie de la base de données ne peut se faire que sous réserve des droits d'auteur et droits assimilés de tiers. Ces derniers comprennent tout matériel qui ne seraient pas la propriété directe de CopieTagePronot.
 
 # Article 5 – Limitations de garantie et exclusions de responsabilité
 
