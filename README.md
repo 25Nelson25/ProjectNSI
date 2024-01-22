@@ -1,4 +1,4 @@
-# CopiTachePronot
+# CopiTagePronot
 
 CopieTagePronot est une application bureautique autonomme qui permet :
 
